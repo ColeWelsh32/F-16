@@ -1,0 +1,13 @@
+background-color: #8c8c8c
+h1{
+	color: #FF0000;
+	text-align: right;
+}
+
+td {
+	width: 120px;
+	border-color: #00FF00; 
+	border-style: solid; 
+	border-width: 2px; 
+	text-align: center;
+}
